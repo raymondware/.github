@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security report
+    url: https://www.raymondware.com/
+    about: Do not report security vulnerabilities publicly. Use the private contact options on the site.
